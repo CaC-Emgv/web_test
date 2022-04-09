@@ -1,0 +1,19 @@
+#presentacion{
+    font-family: "League Spartan", Verdana, sans-serif;
+    font-size: 20px;
+    max-width: auto;
+}
+
+#logo_carrera{
+    display: block;
+    margin-left: 550px;
+    margin-top: -120px;
+    border-radius: 100%;
+    width: auto;
+    height: 100px;
+    max-width: 100%;
+}
+
+body{
+    background-color: #eee;
+}
